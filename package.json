@@ -1,0 +1,22 @@
+{
+  "name": "my-stack-gqso",
+  "version": "1.0.0",
+  "description": "Exemplo de pilha em javascrip com tedte em jest",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jfl4/my-stack-gqso.git"
+  },
+  "author": "josefernandolopes",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/jfl4/my-stack-gqso/issues"
+  },
+  "homepage": "https://github.com/jfl4/my-stack-gqso#readme",
+  "dependencies": {
+    "jest": "^27.0.6"
+  }
+}
